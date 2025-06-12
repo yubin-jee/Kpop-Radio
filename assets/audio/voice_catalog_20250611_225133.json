@@ -1,0 +1,23 @@
+{
+  "organized": {
+    "premade": [
+      {
+        "voice_id": "9BWtsMINqrJLrRacOk9x",
+        "name": "Aria",
+        "category": "premade",
+        "description": "A middle-aged female with an African-American accent. Calm with a hint of rasp.",
+        "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/9BWtsMINqrJLrRacOk9x/405766b8-1f4e-4d3c-aba1-6f25333823ec.mp3",
+        "available_for_tiers": [],
+        "settings": null,
+        "sharing": null,
+        "high_quality_base_model_ids": [
+          "eleven_v2_flash",
+          "eleven_flash_v2",
+          "eleven_turbo_v2_5",
+          "eleven_multilingual_v2",
+          "eleven_v2_5_flash",
+          "eleven_flash_v2_5",
+          "eleven_turbo_v2"
+        ],
+        "safety_control": null,
+        "voice_verification": 
